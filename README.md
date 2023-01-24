@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently open for work! 
 - 💻 View my linkedin profile here for my previous experience: https://www.linkedin.com/in/julia-tatone-507113192/
-- - ⌨️ I have coding experience in Java, Python, R, PL/SQL, and Linux
+- ⌨️ I have coding experience in Java, Python, R, PL/SQL, and Linux
 - 🌱 I’m currently mastering python for bioinformatics for research computing
 - 👯 I’m looking to collaborate on any side projects that would help me gain industry experience dealing with NGS, genomics, and precision medicine data
 - 🤔 I’m looking for help with networking in the (bio)technology industry
